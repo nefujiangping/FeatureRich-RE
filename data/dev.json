@@ -1,0 +1,422 @@
+[
+  {
+    "tokens": ["MORPA", "is", "a", "fully", "implemented", "parser", "developed", "for", "a", "text-to-speech", "system", "."],
+    "entities": [
+      {
+        "entity_type": "Method",
+        "name": "MORPA",
+        "pos": [
+          0,
+          1
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "parser",
+        "pos": [
+          5,
+          6
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "text-to-speech system",
+        "pos": [
+          9,
+          11
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "h_idx": 0,
+        "t_idx": 1,
+        "r": "Hyponym-Of"
+      },
+      {
+        "h_idx": 0,
+        "t_idx": 2,
+        "r": "Used-for"
+      }
+    ],
+    "id": "1"
+  },
+  {
+    "tokens": ["To", "reduce", "ambiguity", ",", "the", "MORphological", "PArser", "MORPA", "is", "provided", "with", "a", "PCFG", "."],
+    "entities": [
+      {
+        "entity_type": "Other-ScientificTerm",
+        "name": "ambiguity",
+        "pos": [
+          2,
+          3
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "MORphological PArser MORPA",
+        "pos": [
+          5,
+          6
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "PCFG",
+        "pos": [
+          12,
+          13
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "h_idx": 1,
+        "t_idx": 0,
+        "r": "Used-for"
+      },
+      {
+        "h_idx": 2,
+        "t_idx": 1,
+        "r": "Used-for"
+      }
+    ],
+    "id": "2"
+  },
+  {
+    "tokens": ["MORPA", "is", "a", "fully", "implemented", "parser", "developed", "for", "a", "text-to-speech", "system", "."],
+    "entities": [
+      {
+        "entity_type": "Method",
+        "name": "MORPA",
+        "pos": [
+          0,
+          1
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "parser",
+        "pos": [
+          5,
+          6
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "text-to-speech system",
+        "pos": [
+          9,
+          11
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "h_idx": 0,
+        "t_idx": 1,
+        "r": "Hyponym-Of"
+      },
+      {
+        "h_idx": 0,
+        "t_idx": 2,
+        "r": "Used-for"
+      }
+    ],
+    "id": "3"
+  },
+  {
+    "tokens": ["To", "reduce", "ambiguity", ",", "the", "MORphological", "PArser", "MORPA", "is", "provided", "with", "a", "PCFG", "."],
+    "entities": [
+      {
+        "entity_type": "Other-ScientificTerm",
+        "name": "ambiguity",
+        "pos": [
+          2,
+          3
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "MORphological PArser MORPA",
+        "pos": [
+          5,
+          6
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "PCFG",
+        "pos": [
+          12,
+          13
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "h_idx": 1,
+        "t_idx": 0,
+        "r": "Used-for"
+      },
+      {
+        "h_idx": 2,
+        "t_idx": 1,
+        "r": "Used-for"
+      }
+    ],
+    "id": "4"
+  },
+  {
+    "tokens": ["MORPA", "is", "a", "fully", "implemented", "parser", "developed", "for", "a", "text-to-speech", "system", "."],
+    "entities": [
+      {
+        "entity_type": "Method",
+        "name": "MORPA",
+        "pos": [
+          0,
+          1
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "parser",
+        "pos": [
+          5,
+          6
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "text-to-speech system",
+        "pos": [
+          9,
+          11
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "h_idx": 0,
+        "t_idx": 1,
+        "r": "Hyponym-Of"
+      },
+      {
+        "h_idx": 0,
+        "t_idx": 2,
+        "r": "Used-for"
+      }
+    ],
+    "id": "5"
+  },
+  {
+    "tokens": ["To", "reduce", "ambiguity", ",", "the", "MORphological", "PArser", "MORPA", "is", "provided", "with", "a", "PCFG", "."],
+    "entities": [
+      {
+        "entity_type": "Other-ScientificTerm",
+        "name": "ambiguity",
+        "pos": [
+          2,
+          3
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "MORphological PArser MORPA",
+        "pos": [
+          5,
+          6
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "PCFG",
+        "pos": [
+          12,
+          13
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "h_idx": 1,
+        "t_idx": 0,
+        "r": "Used-for"
+      },
+      {
+        "h_idx": 2,
+        "t_idx": 1,
+        "r": "Used-for"
+      }
+    ],
+    "id": "6"
+  },
+  {
+    "tokens": ["MORPA", "is", "a", "fully", "implemented", "parser", "developed", "for", "a", "text-to-speech", "system", "."],
+    "entities": [
+      {
+        "entity_type": "Method",
+        "name": "MORPA",
+        "pos": [
+          0,
+          1
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "parser",
+        "pos": [
+          5,
+          6
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "text-to-speech system",
+        "pos": [
+          9,
+          11
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "h_idx": 0,
+        "t_idx": 1,
+        "r": "Hyponym-Of"
+      },
+      {
+        "h_idx": 0,
+        "t_idx": 2,
+        "r": "Used-for"
+      }
+    ],
+    "id": "7"
+  },
+  {
+    "tokens": ["To", "reduce", "ambiguity", ",", "the", "MORphological", "PArser", "MORPA", "is", "provided", "with", "a", "PCFG", "."],
+    "entities": [
+      {
+        "entity_type": "Other-ScientificTerm",
+        "name": "ambiguity",
+        "pos": [
+          2,
+          3
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "MORphological PArser MORPA",
+        "pos": [
+          5,
+          6
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "PCFG",
+        "pos": [
+          12,
+          13
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "h_idx": 1,
+        "t_idx": 0,
+        "r": "Used-for"
+      },
+      {
+        "h_idx": 2,
+        "t_idx": 1,
+        "r": "Used-for"
+      }
+    ],
+    "id": "8"
+  },
+  {
+    "tokens": ["MORPA", "is", "a", "fully", "implemented", "parser", "developed", "for", "a", "text-to-speech", "system", "."],
+    "entities": [
+      {
+        "entity_type": "Method",
+        "name": "MORPA",
+        "pos": [
+          0,
+          1
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "parser",
+        "pos": [
+          5,
+          6
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "text-to-speech system",
+        "pos": [
+          9,
+          11
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "h_idx": 0,
+        "t_idx": 1,
+        "r": "Hyponym-Of"
+      },
+      {
+        "h_idx": 0,
+        "t_idx": 2,
+        "r": "Used-for"
+      }
+    ],
+    "id": "9"
+  },
+  {
+    "tokens": ["To", "reduce", "ambiguity", ",", "the", "MORphological", "PArser", "MORPA", "is", "provided", "with", "a", "PCFG", "."],
+    "entities": [
+      {
+        "entity_type": "Other-ScientificTerm",
+        "name": "ambiguity",
+        "pos": [
+          2,
+          3
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "MORphological PArser MORPA",
+        "pos": [
+          5,
+          6
+        ]
+      },
+      {
+        "entity_type": "Method",
+        "name": "PCFG",
+        "pos": [
+          12,
+          13
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "h_idx": 1,
+        "t_idx": 0,
+        "r": "Used-for"
+      },
+      {
+        "h_idx": 2,
+        "t_idx": 1,
+        "r": "Used-for"
+      }
+    ],
+    "id": "10"
+  }
+]

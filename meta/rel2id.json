@@ -1,0 +1,10 @@
+{
+  "NA": 0,
+  "Compare": 1,
+  "Part-of": 2,
+  "Conjunction": 3,
+  "Evaluate-for": 4,
+  "Feature-of": 5,
+  "Used-for": 6,
+  "Hyponym-Of": 7
+}
